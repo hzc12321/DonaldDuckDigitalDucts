@@ -1,0 +1,9 @@
+<Current CGPA>,<Expected Graduation Salary>,<Actual Graduation Salary>,<Name>,<Department>
+Min: 2.5,Min: 1000.0,Min: 2000.0,Mode: Ma Ning; Muhammed Muhammed; Zou Fang (2),Mode: Artificial Intelligence (10)
+Max: 4.0,Max: 9000.0,Max: 10000.0,
+Mode: 4.0 (16),Mode: 9000.0 (19),Mode: 10000.0 (19),
+Median: 3.0,Median: 7000.0,Median: 8000.0,
+Mean: 3.25,Mean: 5884.615384615385,Mean: 6769.2307692307695,
+Range: 1.5,Range: 8000.0,Range: 8000.0,
+Variance: 0.35294117647058826,Variance: 9162895.927601809,Variance: 9592760.180995474,
+Standard Deviation: 0.5940885257860046,Standard Deviation: 3027.027572983406,Standard Deviation: 3097.2181358431108,

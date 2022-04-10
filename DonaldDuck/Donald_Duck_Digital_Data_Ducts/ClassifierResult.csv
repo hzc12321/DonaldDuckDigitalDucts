@@ -1,0 +1,7 @@
+class,frequency within k neighbors
+10000.0,16.0
+8000.0,9.0
+2000.0,0.0
+6000.0,0.0
+4000.0,0.0
+Predicted classification of Actual Graduation Salary based on 25 nearest neighbor for the given CurrentCGPA which is 3.75 is class: 10000.0 with the frequency of 16
